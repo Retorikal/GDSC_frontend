@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c7af836.chunk.css",
+    "main.js": "/static/js/main.70c4c008.chunk.js",
+    "main.js.map": "/static/js/main.70c4c008.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ad38f531.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ad38f531.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6fa61183.chunk.js": "/static/js/2.6fa61183.chunk.js",
+    "static/js/2.6fa61183.chunk.js.map": "/static/js/2.6fa61183.chunk.js.map",
+    "static/js/3.a773f125.chunk.js": "/static/js/3.a773f125.chunk.js",
+    "static/js/3.a773f125.chunk.js.map": "/static/js/3.a773f125.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6c7af836.chunk.css.map": "/static/css/main.6c7af836.chunk.css.map",
+    "static/js/2.6fa61183.chunk.js.LICENSE.txt": "/static/js/2.6fa61183.chunk.js.LICENSE.txt",
+    "static/media/blackwidow.c413aa35.jpg": "/static/media/blackwidow.c413aa35.jpg",
+    "static/media/bttf.1651fd4f.jpg": "/static/media/bttf.1651fd4f.jpg",
+    "static/media/collosal.0e05a8a3.jpg": "/static/media/collosal.0e05a8a3.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/squidward.aa5f3bba.jpg": "/static/media/squidward.aa5f3bba.jpg",
+    "static/media/suponjibobu.728d4837.jpg": "/static/media/suponjibobu.728d4837.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad38f531.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6fa61183.chunk.js",
+    "static/css/main.6c7af836.chunk.css",
+    "static/js/main.70c4c008.chunk.js"
+  ]
+}
